@@ -44,10 +44,10 @@ https://wokwi.com/projects/449938141065819137
 ---
 
 ## 📂 Project Files
-smart-lighting-system/
-│── sketch.ino # ESP32 source code
-│── diagram.json # Circuit diagram (Wokwi)
-│── README.md # Project documentation
+smart-lighting-system/  
+│── sketch.ino # ESP32 source code  
+│── diagram.json # Circuit diagram (Wokwi)  
+│── README.md # Project documentation  
 
 
 ---
